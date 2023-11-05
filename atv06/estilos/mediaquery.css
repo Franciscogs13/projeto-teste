@@ -47,6 +47,13 @@
     .sct>div>img{
         width: 27vw;
     }
+    .sct>div>hr{
+        width: 100px;
+    }
+    .sct>div>a{
+        margin-top: -36px;
+
+    }
     
 }
 
