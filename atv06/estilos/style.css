@@ -42,8 +42,7 @@ header{
 .menu>li>a{    
     color: #445a5f;
     align-self: center;
-    margin-right: 15px;
-    margin-left: 10px;
+    margin-right: 10px;
     cursor: pointer;
     
 }
